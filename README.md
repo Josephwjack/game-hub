@@ -4,7 +4,7 @@ Game Hub is a private project for creating a game hub web application. It utiliz
 
 ## Credit
 
-Thank you Mosh Hamedani for your React with TypeScript course that helped me brush up on many React principles that were becoming fuzzy for me aswell as learning TypeScript.
+Thank you Mosh Hamedani for your React with TypeScript course. 
 
 ## Installation
 
