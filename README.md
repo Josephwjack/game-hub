@@ -1,11 +1,8 @@
 # Game Hub
 
-Game Hub is a private project for creating a game hub web application. It utilizes modern JavaScript technologies and libraries to provide a rich user experience.
+Game Hub is a private project for creating a game library web application. It utilizes React with TypeScript, React-query, Zustand for state management, and react-router.
 
-## Credit
-
-Thank you Mosh Hamedani for your React with TypeScript course. 
-
+ 
 ## Installation
 
 To use this project, make sure you have [Node.js](https://nodejs.org) installed.
